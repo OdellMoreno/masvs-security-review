@@ -1,0 +1,4 @@
+interface:
+  display_name: "MASVS Security Review"
+  short_description: "Evidence-based MASVS control reviews"
+  default_prompt: "Run a practical OWASP MASVS review, map findings to MASVS control IDs with evidence, prioritize risk, and suggest remediations."
